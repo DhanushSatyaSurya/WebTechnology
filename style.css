@@ -1,0 +1,133 @@
+.main{
+	background-image:url(pu2.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-attachment:fit;
+	height:500px;
+	width:1270px;
+	margin-left:2px;
+	margin-top:20px;
+	margin-right:10PX;
+}
+
+.weldiv{
+	color:white;
+	background-color:rgba(250,100,200,0.5);
+	height:110px;
+	font-size:25px;
+	width:290px;
+	text-shadow:4px 4px 8px yellow;
+}
+
+.imgd{
+	position:absolute;
+	top:30px;
+	left:1100px;
+	margin-left:10px;
+}
+
+.nav{
+	height:40px;
+	width:1050px;
+	
+	background-color:grey;
+	
+}
+
+.nav a{
+	text-decoration:none;
+	margin-left:60px;
+font-size:25px;
+	color:white;
+}
+
+.nav a:hover{
+	color:red;
+}
+
+.last{
+	background-color:white;
+	height:600px;
+	width:1270px
+
+}
+
+.l1{
+	background-image:linear-gradient(to right,white,skyblue);
+	margin-top:20px;
+	height:400px;
+	padding-left:20px;
+	width:290px;
+	float:left;
+}
+.l1 span {
+	color:red;
+	font-size:40px
+}
+
+.l2{
+	background-image:linear-gradient(to right,white,skyblue);
+	margin-top:20px;
+	height:290px;
+	margin-left:20px;
+	width:290px;
+	float:left;
+}
+.l2 span {
+	color:red;
+	font-size:40px
+}
+.l2 img{
+	opacity:0.5;
+}
+
+.l2 img:hover{
+	opacity:1;
+}
+
+.l3{
+	background-image:linear-gradient(to right,white,skyblue);
+	margin-top:20px;
+	height:270px;
+	margin-left:20px;
+	width:290px;
+	float:left;
+}
+.l3 span {
+	color:red;
+	font-size:40px
+}
+.l3 img{
+	opacity:0.5;
+}
+
+.l3 img:hover{
+	opacity:1;
+}
+
+.l4{
+	background-image:linear-gradient(to right,white,skyblue);
+	margin-top:20px;
+	height:250px;
+	margin-left:20px;
+	width:290px;
+	float:left;
+}
+.l4 span {
+	color:red;
+	font-size:40px
+}
+
+.l4 img{
+	opacity:0.5;
+}
+
+.l4 img:hover{
+	opacity:1;
+}
+
+.last p{
+	position:absolute;
+	top:1000px;
+	left:400px;
+}
